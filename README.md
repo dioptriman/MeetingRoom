@@ -1,6 +1,6 @@
 # Meeting Room
 ---
-This Repository is for meeting room
+This Repository is for meeting room using keras cv and yolov8
 
 1. Screenshot 2023-12-15 at 01.31.03.png -> Results in Database
 2. Screenshot 2023-12-15 at 01.31.16.png -> API Server Response
