@@ -2,4 +2,6 @@
 ---
 This Repository is for meeting room
 
-![alt text]([Screenshot%202023-12-15%20at%2001.31.03.png])
+1. Screenshot 2023-12-15 at 01.31.03.png -> Results in Database
+2. Screenshot 2023-12-15 at 01.31.16.png -> API Server Response
+3. Screenshot 2023-12-15 at 01.31.32.png -> Postman Capture
